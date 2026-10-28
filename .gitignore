@@ -1,0 +1,17 @@
+# Compilación
+bin/
+obj/
+
+# Editores e IDEs
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Base de datos local
+*.db
+*.db-shm
+*.db-wal
+
+# Secretos
+.env
