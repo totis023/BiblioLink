@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BiblioLink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3472bb211d91b3889f866ed64f37bff5482fd9a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+644cfb933c5e1032d3fd81fd71bdcffc3695a341")]
 [assembly: System.Reflection.AssemblyProductAttribute("BiblioLink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BiblioLink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
